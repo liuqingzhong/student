@@ -1,7 +1,12 @@
 public class SignIn{
 	private int id;
+
 	private String name;
-	publc void sign(){
+
 		
+
+	public void sign(){
+		System.out.println("id -" + id);
+
 	}
 }
